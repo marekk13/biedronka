@@ -98,5 +98,5 @@ ws.append(['Nazwa', 'Cena', 'Name1', 'Name2'])
 
 **Equal Cost Splitting:** Handles scenarios where a single grocery item is shared between two persons, automatically inserting `PRAWDA` in both name columns and distributing the cost equally.
 
-The script provides a comprehensive solution for automating the update of grocery shopping data in an Excel spreadsheet, enhancing efficiency and reducing manual data entry efforts. <br />
+The script provides a comprehensive solution for automating the update of grocery shopping data in an Excel spreadsheet, enhancing efficiency and reducing manual data entry efforts. <br /><br />
 ![biedronka_github](https://github.com/marekk13/biedronka/assets/109167046/91638358-3e06-4437-a7d9-05944585dbfa)
